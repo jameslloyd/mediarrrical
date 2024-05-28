@@ -1,0 +1,310 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire (Theatrical Release)
+DTSTART;VALUE=DATE:20240320
+DTEND;VALUE=DATE:20240321
+DTSTAMP:20240528T064815Z
+UID:Radarr_movie_528_cinemas
+SEQUENCE:0
+CATEGORIES:Ghost Corps
+DESCRIPTION:When the discovery of an ancient artifact unleashes an evil fo
+ rce\, Ghostbusters new and old must join forces to protect their home and 
+ save the world from a second Ice Age.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire (Digital Release)
+DTSTART;VALUE=DATE:20240506
+DTEND;VALUE=DATE:20240507
+DTSTAMP:20240528T064815Z
+UID:Radarr_movie_528_digital
+SEQUENCE:0
+CATEGORIES:Ghost Corps
+DESCRIPTION:When the discovery of an ancient artifact unleashes an evil fo
+ rce\, Ghostbusters new and old must join forces to protect their home and 
+ save the world from a second Ice Age.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghostbusters: Frozen Empire (Physical Release)
+DTSTART;VALUE=DATE:20240624
+DTEND;VALUE=DATE:20240625
+DTSTAMP:20240528T064815Z
+UID:Radarr_movie_528_physical
+SEQUENCE:0
+CATEGORIES:Ghost Corps
+DESCRIPTION:When the discovery of an ancient artifact unleashes an evil fo
+ rce\, Ghostbusters new and old must join forces to protect their home and 
+ save the world from a second Ice Age.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Madame Web (Theatrical Release)
+DTSTART;VALUE=DATE:20240214
+DTEND;VALUE=DATE:20240215
+DTSTAMP:20240528T064815Z
+UID:Radarr_movie_806_cinemas
+SEQUENCE:0
+CATEGORIES:Columbia Pictures
+DESCRIPTION:Forced to confront revelations about her past\, paramedic Cass
+ andra Webb forges a relationship with three young women destined for power
+ ful futures...if they can all survive a deadly present.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Madame Web (Digital Release)
+DTSTART;VALUE=DATE:20240314
+DTEND;VALUE=DATE:20240315
+DTSTAMP:20240528T064815Z
+UID:Radarr_movie_806_digital
+SEQUENCE:0
+CATEGORIES:Columbia Pictures
+DESCRIPTION:Forced to confront revelations about her past\, paramedic Cass
+ andra Webb forges a relationship with three young women destined for power
+ ful futures...if they can all survive a deadly present.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Madame Web (Physical Release)
+DTSTART;VALUE=DATE:20240523
+DTEND;VALUE=DATE:20240524
+DTSTAMP:20240528T064815Z
+UID:Radarr_movie_806_physical
+SEQUENCE:0
+CATEGORIES:Columbia Pictures
+DESCRIPTION:Forced to confront revelations about her past\, paramedic Cass
+ andra Webb forges a relationship with three young women destined for power
+ ful futures...if they can all survive a deadly present.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bob Marley: One Love (Theatrical Release)
+DTSTART;VALUE=DATE:20240214
+DTEND;VALUE=DATE:20240215
+DTSTAMP:20240528T064815Z
+UID:Radarr_movie_807_cinemas
+SEQUENCE:0
+CATEGORIES:Paramount
+DESCRIPTION:Jamaican singer-songwriter Bob Marley overcomes adversity to b
+ ecome the most famous reggae musician in the world.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bob Marley: One Love (Digital Release)
+DTSTART;VALUE=DATE:20240319
+DTEND;VALUE=DATE:20240320
+DTSTAMP:20240528T064815Z
+UID:Radarr_movie_807_digital
+SEQUENCE:0
+CATEGORIES:Paramount
+DESCRIPTION:Jamaican singer-songwriter Bob Marley overcomes adversity to b
+ ecome the most famous reggae musician in the world.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bob Marley: One Love (Physical Release)
+DTSTART;VALUE=DATE:20240528
+DTEND;VALUE=DATE:20240529
+DTSTAMP:20240528T064815Z
+UID:Radarr_movie_807_physical
+SEQUENCE:0
+CATEGORIES:Paramount
+DESCRIPTION:Jamaican singer-songwriter Bob Marley overcomes adversity to b
+ ecome the most famous reggae musician in the world.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire (Theatrical Release)
+DTSTART;VALUE=DATE:20240327
+DTEND;VALUE=DATE:20240328
+DTSTAMP:20240528T064815Z
+UID:Radarr_movie_809_cinemas
+SEQUENCE:0
+CATEGORIES:Legendary Pictures
+DESCRIPTION:Following their explosive showdown\, Godzilla and Kong must re
+ unite against a colossal undiscovered threat hidden within our world\, cha
+ llenging their very existence â and our own.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire (Digital Release)
+DTSTART;VALUE=DATE:20240513
+DTEND;VALUE=DATE:20240514
+DTSTAMP:20240528T064815Z
+UID:Radarr_movie_809_digital
+SEQUENCE:0
+CATEGORIES:Legendary Pictures
+DESCRIPTION:Following their explosive showdown\, Godzilla and Kong must re
+ unite against a colossal undiscovered threat hidden within our world\, cha
+ llenging their very existence â and our own.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla x Kong: The New Empire (Physical Release)
+DTSTART;VALUE=DATE:20240624
+DTEND;VALUE=DATE:20240625
+DTSTAMP:20240528T064815Z
+UID:Radarr_movie_809_physical
+SEQUENCE:0
+CATEGORIES:Legendary Pictures
+DESCRIPTION:Following their explosive showdown\, Godzilla and Kong must re
+ unite against a colossal undiscovered threat hidden within our world\, cha
+ llenging their very existence â and our own.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War (Theatrical Release)
+DTSTART;VALUE=DATE:20240410
+DTEND;VALUE=DATE:20240411
+DTSTAMP:20240528T064815Z
+UID:Radarr_movie_818_cinemas
+SEQUENCE:0
+CATEGORIES:DNA Films
+DESCRIPTION:In the near future\, a group of war journalists attempt to sur
+ vive while reporting the truth as the United States stands on the brink of
+  civil war.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War (Digital Release)
+DTSTART;VALUE=DATE:20240523
+DTEND;VALUE=DATE:20240524
+DTSTAMP:20240528T064815Z
+UID:Radarr_movie_818_digital
+SEQUENCE:0
+CATEGORIES:DNA Films
+DESCRIPTION:In the near future\, a group of war journalists attempt to sur
+ vive while reporting the truth as the United States stands on the brink of
+  civil war.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Civil War (Physical Release)
+DTSTART;VALUE=DATE:20240709
+DTEND;VALUE=DATE:20240710
+DTSTAMP:20240528T064815Z
+UID:Radarr_movie_818_physical
+SEQUENCE:0
+CATEGORIES:DNA Films
+DESCRIPTION:In the near future\, a group of war journalists attempt to sur
+ vive while reporting the truth as the United States stands on the brink of
+  civil war.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boy Kills World (Theatrical Release)
+DTSTART;VALUE=DATE:20240424
+DTEND;VALUE=DATE:20240425
+DTSTAMP:20240528T064815Z
+UID:Radarr_movie_830_cinemas
+SEQUENCE:0
+CATEGORIES:Vertigo Entertainment
+DESCRIPTION:When his family is murdered\, a deaf-mute named Boy escapes to
+  the jungle and is trained by a mysterious shaman to repress his childish 
+ imagination and become an instrument of death.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boy Kills World (Digital Release)
+DTSTART;VALUE=DATE:20240521
+DTEND;VALUE=DATE:20240522
+DTSTAMP:20240528T064815Z
+UID:Radarr_movie_830_digital
+SEQUENCE:0
+CATEGORIES:Vertigo Entertainment
+DESCRIPTION:When his family is murdered\, a deaf-mute named Boy escapes to
+  the jungle and is trained by a mysterious shaman to repress his childish 
+ imagination and become an instrument of death.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taskmaster - 17x09 - Assistantbury
+DTSTART;VALUE=DATE:20240523
+DTSTAMP:20240528T064815Z
+UID:NzbDrone_episode_4991
+SEQUENCE:0
+CATEGORIES:Channel 4
+DESCRIPTION:Little Alex Horne risks raising Greg Davies' hackles with a ta
+ sk in celebration of himself. Steve Pemberton has an expletive-laden row w
+ ith a bin. Plus: a novel use for a cow's ear.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grey's Anatomy - 20x09 - I Carry Your Heart
+DTSTART;VALUE=DATE:20240524
+DTSTAMP:20240528T064815Z
+UID:NzbDrone_episode_5023
+SEQUENCE:0
+CATEGORIES:ABC (US)
+DESCRIPTION:Just as Amelia comes to a realization\, Teddy encourages her a
+ nd Meredith to speed up their Alzheimerâs research over fear of Cathe
+ rine finding out. Mika finds herself caught in the middle of Link and Jo\;
+  meanwhile\, Lucas receives bad news.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taskmaster - 17x10 - Ambience and Information
+DTSTART;VALUE=DATE:20240530
+DTSTAMP:20240528T064815Z
+UID:NzbDrone_episode_4992
+SEQUENCE:0
+CATEGORIES:Channel 4
+DESCRIPTION:It's the grand final\, which means one superior competitor wil
+ l end this episode by clutching Greg Davies' gilded bonce to their proud c
+ hest. But before that glorious moment\, Sophie Willan will impress on keyb
+ oards\, Steve Pemberton will be surprised in a field\, John Robins will re
+ fuse a biscuit\, Joanne McNally will struggle with an anagram\, and Nick M
+ ohammed will make a magical prediction. And\, of course\, Little Alex Horn
+ e will diligently record every last moment for posterity.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grey's Anatomy - 20x10 - Burn It Down
+DTSTART;VALUE=DATE:20240531
+DTSTAMP:20240528T064815Z
+UID:NzbDrone_episode_5024
+SEQUENCE:0
+CATEGORIES:ABC (US)
+DESCRIPTION:Wildfires threaten the Seattle region\, leading to a flood of 
+ patients and emergency procedures. The doctors juggle overcapacity in the 
+ ER\, complex surgeries and personal stress. Meanwhile\, Meredith makes a r
+ ash decision that canât be undone.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bridgerton - 3x05 - Tick Tock
+DTSTART;VALUE=DATE:20240613
+DTSTAMP:20240528T064815Z
+UID:NzbDrone_episode_5118
+SEQUENCE:0
+CATEGORIES:Netflix
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bridgerton - 3x06 - Romancing Mister Bridgerton
+DTSTART;VALUE=DATE:20240613
+DTSTAMP:20240528T064815Z
+UID:NzbDrone_episode_5119
+SEQUENCE:0
+CATEGORIES:Netflix
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bridgerton - 3x07 - Joining of Hands
+DTSTART;VALUE=DATE:20240613
+DTSTAMP:20240528T064815Z
+UID:NzbDrone_episode_5120
+SEQUENCE:0
+CATEGORIES:Netflix
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bridgerton - 3x08 - Into the Light
+DTSTART;VALUE=DATE:20240613
+DTSTAMP:20240528T064815Z
+UID:NzbDrone_episode_5121
+SEQUENCE:0
+CATEGORIES:Netflix
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR
