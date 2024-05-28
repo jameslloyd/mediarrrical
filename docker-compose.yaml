@@ -1,0 +1,13 @@
+version: "3.3"
+services:
+    mediarrrical:
+        container_name: mediarrr_ical
+        environment:
+            - TZ=Europe/London
+            - B2KEYNAME=<BUCKETNAME>
+            - B2KEYID=<KEYID>
+            - B2KEY=<KEY>
+            - B2ENDPOINT=<ENDPOINT>
+        volumes:
+            - <LOCAL CONFIG DIR>:/app/config
+        image: jameslloyd/mediarrrical
