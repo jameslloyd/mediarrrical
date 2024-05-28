@@ -13,7 +13,7 @@ B2KEYNAME = os.getenv('B2KEYNAME')
 B2KEYID = os.getenv('B2KEYID')
 B2KEY = os.getenv('B2KEY')
 B2ENDPOINT = os.getenv('B2ENDPOINT')
-REPEATEVERY = os.getenv('REPEATEVERY') or 3600
+REPEATEVERY = os.getenv('REPEATEVERY') or 43200
 
 def merge_icals(urls):
     """Fetches iCal data from multiple URLs, merges events, and returns a single Calendar."""

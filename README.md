@@ -1,6 +1,6 @@
 # mediarrr_ical
 
-If you dont want to expose your mediarrr apps to the internet, but want to view the ical info in google calendar (or similar). This will combine the ical data from multiple apps and upload to an S3 / B2 bucket. By default it will upload a new ical every hour (this can be changed by setting REPEATEVERY env to what ever you like (seconds)).
+If you dont want to expose your mediarrr apps to the internet, but want to view the ical info in google calendar (or similar). This will combine the ical data from multiple apps and upload to an S3 / B2 bucket. By default it will upload a new ical every 12 hours (this can be changed by setting REPEATEVERY env to what ever you like (seconds)).
 
 
 
