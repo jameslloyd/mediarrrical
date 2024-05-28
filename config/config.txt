@@ -1,2 +1,0 @@
-https://radarr.lloyd.ws/feed/v3/calendar/Radarr.ics?apikey=deae17c776f842248032a76b3b3ed2c1
-https://sonarr.lloyd.ws/feed/v3/calendar/Sonarr.ics?asAllDay=true&apikey=135a7f28095a40a8ace7115b6ce099bd
