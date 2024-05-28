@@ -5,6 +5,7 @@ If you dont want to expose your mediarrr apps to the internet, but want to view 
 
 
 ## Docker Config
+[!NOTE]
 ENVs need setting
 
 ```
@@ -13,6 +14,9 @@ B2KEYID
 B2KEY
 B2ENDPOINT
 ```
+
+[!NOTE]
+A local config dir needs createing with a config.txt
 
 and /app/config needs mounting to a folder containing a single file config.txt.  config.txt you should populate with a list of the ical urls to merge, each on separate lines.
 
